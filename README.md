@@ -14,9 +14,9 @@ This repository documents the topics, modules, and hands-on activities covered d
 The internship focused on the core principles and practices of ethical hacking, structured into multiple stages from foundational knowledge to practical penetration testing. This included setting up labs, exploring attack vectors, understanding security tools, and analyzing real-world hacking techniques.
 
 ### Stage 1: Core Concepts & Lab Setup
-- **Module 1:** Fundamentals of Ethical Hacking
-- **Module 2:** Pentest Lab Setup (Kali Linux, VirtualBox/VMware)
-- **Module 3:** Basic Networking & Protocols (TCP/IP, OSI Model)
+- [**Module 1:** Fundamentals of Ethical Hacking](https://github.com/8ORUZ7/infosec-internship/blob/main/ST1/Module%201.md)
+- [**Module 2:** Pentest Lab Setup (Kali Linux, VirtualBox/VMware)](https://github.com/8ORUZ7/infosec-internship/blob/main/ST1/Module%202.md)
+- [**Module 3:** Basic Networking & Protocols (TCP/IP, OSI Model)](https://github.com/8ORUZ7/infosec-internship/blob/main/ST1/Module%203.md)
 
 ### Stage 2: Reconnaissance & Scanning
 - **Module 4:** Footprinting (OSINT, DNS, Email, Google Hacking)
